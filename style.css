@@ -20,3 +20,29 @@
     font-display: swap;
 }
 
+
+body{
+    background-color: var(--yellow);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 340px;
+    height: auto;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 18px;
+    background-color: var(--white);
+}
+
+#img-svg {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-content {
+    margin-top: 15px;
+}
