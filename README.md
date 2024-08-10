@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abhi123-rgb/blog-preview-card]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://blog-card-abhishek.vercel.app/]
 
 
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Abhishek N.M]()
+- Website - [Abhishek N.M](https://blog-card-abhishek.vercel.app/)
 - Frontend Mentor - [@abhi123-rgb](https://www.frontendmentor.io/profile/abhi123-rgb)
 - Twitter - [@AbhishekNM90072](https://x.com/AbhishekNM90072?t=BcUfBwBF1rxCxOG3MduVDQ&s=09)
 
